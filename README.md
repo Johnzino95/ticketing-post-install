@@ -16,17 +16,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Learning Objectives</h2>
+<h2>Sample Tickets </h2>
 
-1. Understand Basic System Access and Navigation
-2. Configure User Roles and Permissions
-3. Establish Departmental and Team Structures
-4. Manage User Access and Ticket Submission Settings
-5. Add and Manage Agents and Users
-6. Set Up and Apply Service Level Agreements (SLAs)
-7. Define Help Topics to Guide Ticket Submission
-
-<h2>Configuration Steps</h2>
 
 <p>
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/60c142c5-f1b0-4547-bc96-b73f89984e3c">
