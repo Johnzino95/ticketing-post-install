@@ -35,6 +35,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 1. Access Login Pages
 Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
 End User Portal: http://localhost/osTicket
+</p>
+<p>
 2. Understand the Agent Panel vs. Admin Panel
 Familiarize yourself with the Agent Panel (for ticket management) and Admin Panel (for system configuration).
 </p>
