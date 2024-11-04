@@ -50,8 +50,13 @@ Create and assign Roles to group permissions. Example: Supreme Admin for full ac
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. Define Departments (Ticket Visibility)
+Go to Admin Panel > Agents > Departments.
+Create departments to organize ticket visibility based on job and level of access allowed, for example: helpdesk, system admin, accounting
 </p>
+<p>5. Configure Teams
+Go to Admin Panel > Agents > Teams.
+Create Teams to pull agents from various departments to work on specific issues. Example: Online Banking team.</p>
 <br />
 
 <p>
