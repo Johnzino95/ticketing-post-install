@@ -29,7 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/60c142c5-f1b0-4547-bc96-b73f89984e3c">
+
 </p>
 <p>
 1. Access Login Pages
