@@ -20,21 +20,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img width="451" alt="image" src="https://github.com/user-attachments/assets/60c142c5-f1b0-4547-bc96-b73f89984e3c">
-
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/eaa8fb86-b100-4296-85da-f12463cd3d8c">
 </p>
 <p>
-1. Access Login Pages
-Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
-End User Portal: http://localhost/osTicket
+As an end-user, create the following ticket: entire mobile/online banking system is down
 </p>
-<p>
-2. Understand the Agent Panel vs. Admin Panel
-Familiarize yourself with the Agent Panel (for ticket management) and Admin Panel (for system configuration).
-</p>
-<p>3. Set Up Roles (Group Permissions)
-Navigate to Admin Panel > Agents > Roles.
-Create and assign Roles to group permissions. Example: Supreme Admin for full access.</p>
 <br />
 
 <p>
