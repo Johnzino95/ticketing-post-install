@@ -47,7 +47,8 @@ Create and assign Roles to group permissions. Example: Supreme Admin for full ac
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/c1ad7a0f-15f5-41fc-a9d7-5530dc0f173e">
+
 </p>
 <p>
 4. Define Departments (Ticket Visibility)
@@ -72,9 +73,6 @@ Go to Agent Panel > Users > Add New.
 Add customer profiles for users who will be submitting tickets: Karen, Ken</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 9. Configure SLA (Service Level Agreements)
 Go to Admin Panel > Manage > SLA.
