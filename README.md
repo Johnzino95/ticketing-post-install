@@ -64,8 +64,8 @@ Check "Require registration" if only registered and logged-in users should be al
 <p>7. Add Agents (Workers)
 Go to Admin Panel > Agents > Add New.
 Add agents, specifying their departments:
-,Jane - Department: SysAdmins
-,John - Department: Support</p>
+Jane - Department: SysAdmins,
+John - Department: Support</p>
 
 <p>8. Add Users (Customers)
 Go to Agent Panel > Users > Add New.
@@ -76,6 +76,19 @@ Add customer profiles for users who will be submitting tickets: Karen, Ken</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+9. Configure SLA (Service Level Agreements)
+Go to Admin Panel > Manage > SLA.
+Set SLA rules for different priority levels:
+Sev-A: Grace Period - 1 hour, Schedule - 24/7,
+Sev-B: Grace Period - 4 hours, Schedule - 24/7,
+Sev-C: Grace Period - 8 hours, Business Hours only
 </p>
+<p>10. Define Help Topics (Ticket Categories)
+Go to Admin Panel > Manage > Help Topics.
+Create Help Topics to guide users when submitting tickets:
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset
+Other</p>
 <br />
