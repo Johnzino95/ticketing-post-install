@@ -40,6 +40,9 @@ End User Portal: http://localhost/osTicket
 2. Understand the Agent Panel vs. Admin Panel
 Familiarize yourself with the Agent Panel (for ticket management) and Admin Panel (for system configuration).
 </p>
+<p>3. Set Up Roles (Group Permissions)
+Navigate to Admin Panel > Agents > Roles.
+Create and assign Roles to group permissions. Example: Supreme Admin for full access.</p>
 <br />
 
 <p>
