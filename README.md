@@ -32,7 +32,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Access Login Pages
+Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+End User Portal: http://localhost/osTicket
+2. Understand the Agent Panel vs. Admin Panel
+Familiarize yourself with the Agent Panel (for ticket management) and Admin Panel (for system configuration).
 </p>
 <br />
 
