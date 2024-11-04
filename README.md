@@ -57,6 +57,19 @@ Create departments to organize ticket visibility based on job and level of acces
 <p>5. Configure Teams
 Go to Admin Panel > Agents > Teams.
 Create Teams to pull agents from various departments to work on specific issues. Example: Online Banking team.</p>
+<p>6. Allow Ticket Creation Options for Users
+Go to Admin Panel > Settings > User Settings.
+Uncheck "Registration Required" if you want anyone to be able to create tickets without an account.
+Check "Require registration" if only registered and logged-in users should be allowed to create tickets.</p>
+<p>7. Add Agents (Workers)
+Go to Admin Panel > Agents > Add New.
+Add agents, specifying their departments:
+,Jane - Department: SysAdmins
+,John - Department: Support</p>
+
+<p>8. Add Users (Customers)
+Go to Agent Panel > Users > Add New.
+Add customer profiles for users who will be submitting tickets: Karen, Ken</p>
 <br />
 
 <p>
